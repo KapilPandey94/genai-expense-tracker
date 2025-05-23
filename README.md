@@ -32,11 +32,11 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 
 | Welcome Screen | Sign In | Sign In (Loading) | Sign In (Failed) |
 |----------------|---------|-------------------|------------------|
-| ![Welcome](screenshots/Welcome_UI.jpg) | ![Sign In](screenshots/SignIn_UI.jpg) | ![Loading](screenshots/SignIn_loading_UX.jpg) | ![Failed](screenshots/SignIn_failed_UX.jpg) |
+| ![Welcome](screenshots/Welcome_UI.jpg) | ![Sign In](screenshots/Signin_UI.jpg) | ![Loading](screenshots/Signin_loading_UX.jpg) | ![Failed](screenshots/SignIn_failed_UX.jpg) |
 
 | Sign In (Failed v2) | Sign Up | Forgot Password | Home (Dashboard) |
 |---------------------|---------|------------------|------------------|
-| ![Failed 2](screenshots/SignIn_failed_UX_1.jpg) | ![SignUp](screenshots/SignUp_UI.jpg) | ![Forgot](screenshots/Forgot_UI.jpg) | ![Home](screenshots/Home_Dashboard_UI.jpg) |
+| ![Failed 2](screenshots/SignIn_failed_UX_1.jpg) | ![SignUp](screenshots/SignUp_UI.jpg) | ![Forgot](screenshots/Forgot_UI.jpg) | ![Home](screenshots/Home_dashboard_UI.jpg) |
 
 | Add Expense | Expense | Income | Income (Monthly) |
 |-------------|---------|--------|------------------|
