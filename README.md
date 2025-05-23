@@ -36,7 +36,7 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 
 | Sign In (Failed v2) | Sign Up | Forgot Password | Home (Dashboard) |
 |---------------------|---------|------------------|------------------|
-| ![Failed 2](screenshots/SignIn_failed_UX_1.jpg) | ![SignUp](screenshots/SignUp_UI.jpg) | ![Forgot](screenshots/Forgot_UI.jpg) | ![Home](screenshots/Home_(Dashboard)_UI.jpg) |
+| ![Failed 2](screenshots/SignIn_failed_UX_1.jpg) | ![SignUp](screenshots/SignUp_UI.jpg) | ![Forgot](screenshots/Forgot_UI.jpg) | ![Home](screenshots/Home_Dashboard_UI.jpg) |
 
 | Add Expense | Expense | Income | Income (Monthly) |
 |-------------|---------|--------|------------------|
