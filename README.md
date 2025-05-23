@@ -47,7 +47,7 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 | ![Overview](screenshots/Overview_UI.jpg) | ![Income vs Expense](screenshots/Overview_income_expense_UI.jpg) | ![Nav](screenshots/Nav_bar_menu_UI.jpg) |
 
 
-> 📁 Create a folder named `/screenshots` in your repo and upload these images to display them.
+>  📁 To properly display screenshots above, create a folder named `/screenshots` and upload the image files into it.
 
 ---
 
@@ -68,7 +68,9 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 
 ## 🤝 Contributions
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Contributions, suggestions, and improvements are welcome!  
+If you'd like to contribute, please fork the repository and submit a pull request.  
+For significant changes, kindly open an issue first to discuss your ideas.
 
 ---
 
