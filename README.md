@@ -1,3 +1,6 @@
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+[View License](https://www.gnu.org/licenses/gpl-3.0)
+
 # 📊 GenAI Expense Tracker App
 
 A smart and modern mobile app built using **Android (Java/XML)** and **Firebase** to help users track their income and expenses, analyze spending patterns, and receive AI-generated financial insights in real time.
