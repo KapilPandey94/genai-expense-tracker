@@ -31,6 +31,16 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 
 ---
 
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0**.  
+You may use, modify, and distribute this code under the terms of the GPL-3.0.  
+**Any modified version must also be open-source and under the same license.**
+
+See full license: [LICENSE](./LICENSE)
+
+---
+
 ## 📸 Screenshots
 
 | Welcome Screen | Sign In | Sign In (Loading) | Sign In (Failed) |
