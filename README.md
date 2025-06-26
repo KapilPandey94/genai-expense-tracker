@@ -43,21 +43,62 @@ See full license: [LICENSE](./LICENSE)
 
 ## 📸 Screenshots
 
-| Welcome Screen | Sign In | Sign In (Loading) | Sign In (Failed) |
-|----------------|---------|-------------------|------------------|
-| ![Welcome](screenshots/Welcome_UI.jpg) | ![Sign In](screenshots/Signin_UI.jpg) | ![Loading](screenshots/Signin_loading_UX.jpg) | ![Failed](screenshots/SignIn_failed_UX.jpg) |
+### 🔐 Authentication
 
-| Sign In (Failed v2) | Sign Up | Forgot Password | Home (Dashboard) |
-|---------------------|---------|------------------|------------------|
-| ![Failed 2](screenshots/SignIn_failed_UX_1.jpg) | ![SignUp](screenshots/SignUp_UI.jpg) | ![Forgot](screenshots/Forgot_UI.jpg) | ![Home](screenshots/Home_dashboard_UI.jpg) |
+| Welcome Screen | Sign In | Signing In (Loading) | Sign In Failed |
+|----------------|---------|-----------------------|----------------|
+| ![Welcome](screenshots/Welcome_UI.jpg) | ![Sign In](screenshots/Signin_UI.jpg) | ![Loading](screenshots/SignIn_Progress_SecureLogin_UI.jpg) | ![Failed](screenshots/SignIn_Error_Invalid_Credentials_UI.jpg) |
 
-| Add Expense | Expense | Income | Income (Monthly) |
-|-------------|---------|--------|------------------|
-| ![Add](screenshots/Add_expense_UI.jpg) | ![Expense](screenshots/Expense_UI.jpg) | ![Income](screenshots/Income_UI.jpg) | ![Monthly](screenshots/Income_UI_Monthly.jpg) |
+| Google Sign-In | Account Selection | Sign Up |
+|----------------|-------------------|---------|
+| ![Google](screenshots/SignIn_GoogleAccount_Selection_UI.jpg) | ![Account](screenshots/System_Notification_Financial_Alert_Grocery.jpg) | ![Sign Up](screenshots/SignUp_UI.jpg) |
 
-| Overview | Overview (Income/Expense) | Nav Bar Menu |
-|----------|----------------------------|---------------|
-| ![Overview](screenshots/Overview_UI.jpg) | ![Income vs Expense](screenshots/Overview_income_expense_UI.jpg) | ![Nav](screenshots/Nav_bar_menu_UI.jpg) |
+---
+
+### 🏠 Home & Navigation
+
+| Home (With Data) | Home (No Data Found) | Navigation Drawer |
+|------------------|----------------------|-------------------|
+| ![Home](screenshots/Alert_NewCategory_Grocery_Notification.jpg) | ![No Data](screenshots/NoDataFound_Weekly_Home_UI.jpg) | ![Nav](screenshots/NavDrawer_Menu_UI.jpg) |
+
+---
+
+### ➕ Income & Expense
+
+| Add Expense (FAB) | Expense (Monthly) | Expense (Weekly) | Income (Weekly) |
+|-------------------|-------------------|------------------|------------------|
+| ![Add Expense](screenshots/Expense_UI_AddExpense_FAB_Button.jpg) | ![Expense Month](screenshots/Expense_UI_Monthly.jpg) | ![Expense Week](screenshots/Expense_UI_Weekly.jpg) | ![Income Week](screenshots/Income_UI_Weekly.jpg) |
+
+| Income (Monthly) |
+|------------------|
+| ![Income Month](screenshots/Income_UI_Monthly.jpg) |
+
+---
+
+### 📊 Overview & AI Insights
+
+| Overview (May Chart) | Overview (June Summary) | AI Insights (Generate) | AI Insights (Generating PDF) |
+|----------------------|--------------------------|-------------------------|------------------------------|
+| ![Overview May](screenshots/Overview_BarChart_May_Summary.jpg) | ![Overview June](screenshots/Overview_BarChart_Summary.jpg) | ![Generate AI](screenshots/AIInsights_Generate_PDF_UI.jpg) | ![Generating PDF](screenshots/AIInsights_GeneratingPDF_Status_UI.jpg) |
+
+---
+
+### 📥 Reports & Notifications
+
+| Notifications | Download PDF |
+|---------------|----------------|
+| ![Notifications](screenshots/Notifications_UI.jpg) | ![Download](screenshots/AIInsights_Generate_PDF_UI.jpg) |
+
+---
+
+### 👤 Profile & Legal
+
+| Profile (Edit Info) | Privacy Policy |
+|---------------------|----------------|
+| ![Profile](screenshots/ProfileScreen_Edit_Save_UI.jpg) | ![Policy](screenshots/PrivacyPolicy_UI_DataInfo.jpg) |
+
+---
+
 
 
 >  📁 Screenshots are stored in the /screenshots folder within the project repository.
