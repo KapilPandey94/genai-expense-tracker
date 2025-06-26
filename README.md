@@ -60,8 +60,7 @@ See full license: [LICENSE](./LICENSE)
 | ![Overview](screenshots/Overview_UI.jpg) | ![Income vs Expense](screenshots/Overview_income_expense_UI.jpg) | ![Nav](screenshots/Nav_bar_menu_UI.jpg) |
 
 
->  📁 To properly display screenshots above, create a folder named `/screenshots` and upload the image files into it.
-
+>  📁 Screenshots are stored in the /screenshots folder within the project repository.
 ---
 
 ## 📦 How to Run
