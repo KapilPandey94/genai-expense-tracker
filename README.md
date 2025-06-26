@@ -136,8 +136,14 @@ This professionally styled PDF was generated using **Gemini AI (by Google)** and
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome!  
-If you'd like to contribute, please fork the repository and submit a pull request.  
-For significant changes, kindly open an issue first to discuss your ideas.
+If you'd like to contribute:
+
+- 📌 Fork the repository  
+- ✏️ Make your changes in a feature branch  
+- 🔁 Submit a pull request  
+
+For major feature changes or discussions, please open an issue first to propose your ideas.  
+Thank you for helping make this project better!
 
 ---
 
