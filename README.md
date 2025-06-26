@@ -69,9 +69,6 @@ See full license: [LICENSE](./LICENSE)
 |-------------------|-------------------|------------------|------------------|
 | ![Add Expense](screenshots/Expense_UI_AddExpense_FAB_Button.jpg) | ![Expense Month](screenshots/Expense_UI_Monthly.jpg) | ![Expense Week](screenshots/Expense_UI_Weekly.jpg) | ![Income Week](screenshots/Income_UI_Weekly.jpg) |
 
-| Income (Monthly) |
-|------------------|
-| ![Income Month](screenshots/Income_UI_Monthly.jpg) |
 
 ---
 
