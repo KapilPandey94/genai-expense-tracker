@@ -97,9 +97,25 @@ See full license: [LICENSE](./LICENSE)
 
 ---
 
-
-
 >  📁 Screenshots are stored in the /screenshots folder within the project repository.
+---
+
+### 🧠 AI Generated PDF of GenAI Expense Tracker App
+
+📄 [View Sample AI Insights PDF Report](screenshots/AI_Insights_Report.pdf)
+
+This professionally styled PDF was generated using **Gemini AI (by Google)** and Firebase data integration. It provides users with intelligent, data-driven financial feedback.
+
+**Key Features of the Report:**
+- 📊 **Monthly Expense Summary** with income, expense, and savings breakdown
+- 🍽️ **Categorized Spending Insights** (e.g., Food, Grocery, Transport)
+- 💡 **AI-Based Financial Overview** with smart suggestions per category
+- 📈 **Auto-Generated Donut Chart** showing expense distribution
+- 📅 **Time-Based Filtering** (Weekly/Monthly)
+- ✅ **Overall Summary** with savings feedback and budget recommendations
+- 🧠 Powered by **Gemini AI** for personalized insight generation
+- 📥 Easily downloadable for offline reference
+
 ---
 
 ## 📦 How to Run
