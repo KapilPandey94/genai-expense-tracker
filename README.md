@@ -14,7 +14,7 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 - 🔐 Firebase Authentication (Email/Google/Facebook)
 - ☁️ Data synced using Cloud Firestore
 - 📁 Optional receipt/image upload to Firebase Storage
-- 🧠 AI-driven insights & alerts (via OpenAI + Firebase Extensions)
+- 🧠 AI-driven insights & alerts (via Gemini AI + Firebase Extensions)
 - 📆 Filter by week, month, or 6 months using ChipGroup
 - 🎨 Modern UI/UX using custom design and icon sets
 - 📲 Built for native Android devices
