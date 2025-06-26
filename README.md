@@ -27,7 +27,7 @@ A smart and modern mobile app built using **Android (Java/XML)** and **Firebase*
 - **UI:** XML + Material 3 Components, Custom Views with Canvas
 - **Architecture:** MVVM (ViewModel, LiveData)
 - **Backend:** Firebase (Auth, Firestore, Storage)
-- **Extras:** OpenAI API, Lottie Animations, Glide, 
+- **Extras:** Gemini AI API, Lottie Animations, Glide, 
 
 ---
 
