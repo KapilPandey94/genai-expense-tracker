@@ -49,9 +49,9 @@ See full license: [LICENSE](./LICENSE)
 |----------------|---------|-----------------------|----------------|
 | ![Welcome](screenshots/Welcome_UI.jpg) | ![Sign In](screenshots/Signin_UI.jpg) | ![Loading](screenshots/SignIn_Progress_SecureLogin_UI.jpg) | ![Failed](screenshots/SignIn_Error_Invalid_Credentials_UI.jpg) |
 
-| Google Sign-In | Account Selection | Sign Up |
+| Google Sign-In | Sign Up | Reset Password |
 |----------------|-------------------|---------|
-| ![Google](screenshots/SignIn_GoogleAccount_Selection_UI.jpg) | ![Account](screenshots/System_Notification_Financial_Alert_Grocery.jpg) | ![Sign Up](screenshots/SignUp_UI.jpg) |
+| ![Google](screenshots/SignIn_GoogleAccount_Selection_UI.jpg) | ![Sign Up](screenshots/SignUp_UI.jpg) | ![Reset Password](screenshots/Forgot_UI.jpg) |
 
 ---
 
