@@ -82,9 +82,10 @@ See full license: [LICENSE](./LICENSE)
 
 ### 📥 Reports & Notifications
 
-| Notifications | Download PDF |
-|---------------|----------------|
-| ![Notifications](screenshots/Notifications_UI.jpg) | ![Download](screenshots/AIInsights_Generate_PDF_UI.jpg) |
+| Notifications | System Notification (Financial Alert) | Download PDF |
+|---------------|----------------------------------------|----------------|
+| ![Notifications](screenshots/Notifications_UI.jpg) | ![System Alert](screenshots/System_Notification_Financial_Alert_Grocery.jpg) | ![Download](screenshots/AIInsights_Generate_PDF_UI.jpg) |
+
 
 ---
 
